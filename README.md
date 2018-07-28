@@ -1,5 +1,5 @@
 # NTPMonlistCheck
-A project that check the date return by sending magic byte of different version of monlist command to a NTP Server to test the return byte.
+A project that check the data return by sending magic byte of different version of monlist command to a NTP Server to test the return byte.
 
 This project designed to checked the reflected ratio of NTP monlist command used at RDDoS.
 
